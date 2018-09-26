@@ -1,0 +1,16 @@
+$date
+	Mon Sep 24 22:11:57 2018
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module hello_world $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+$end
+#10
